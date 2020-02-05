@@ -58,7 +58,7 @@
       return {
         isNavbarMenuOpened: false,
         aboutUsLink: 'http://la-combe-du-lion-vert.fr/',
-        contributionLink: 'https://github.com/ismailnguyen/a-software-crafter-s-journey/tree/master/articles'
+        contributionLink: 'https://github.com/lelionvert/a-software-crafter-s-journey/tree/master/articles'
       }
     },
     methods: {
