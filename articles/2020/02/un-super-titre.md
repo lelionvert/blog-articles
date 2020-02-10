@@ -6,9 +6,7 @@ description: une description parmi tant d'autres
 tags: minou, moustaches, patounes
 ---
 
-# Super Titre 
-
-CECI EST UNE LIGNE A RETIRER
+# Super Titre
 
 Aujourd'hui ne parlons plus de développement mais de chat !!!!
 
