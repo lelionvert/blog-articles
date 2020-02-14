@@ -1,7 +1,7 @@
 ---
 title: Un super titre d'article 
 author: alchmiste-45134 
-published_date: 10 février 2020 
+published_date: 2020-02-10 
 description: une description parmi tant d'autres
 tags: minou, moustaches, patounes
 ---
