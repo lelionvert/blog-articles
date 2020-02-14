@@ -4,7 +4,7 @@
 
       <h1 class="title">{{ lastArticlesTitle }}</h1>
 
-      <div class="columns is-centered" v-for="(article, i) in articles" :key="i" v-if="i % 2 == 0">
+      <div class="columns is-centered" v-for="(article, i) in articles" :key="i" v-if="i % 2 === 0">
         <div class="column">
           <Article :article="article" />
         </div>
@@ -12,7 +12,6 @@
           <Article :article="articles[i+1]" />
         </div>
       </div>
-
     </div>
   </section>
 </template>
