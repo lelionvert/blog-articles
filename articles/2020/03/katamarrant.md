@@ -2,7 +2,7 @@
 title: "Les Katas, c'est marrant."
 author: Maxime Reynier 
 published_date: 02 Mars 2020
-description: Dans cette article je vais essayer de vous présenter ce que sont les `Kata`, en quoi peuvent ils vous aider, et comment bien les utiliser.
+description: Les Kata c'est marrant, Les katamarants... Oui bon je vais vous expliquer.
 tags: kata, practice, software craftsmanship, training
 ---
 
