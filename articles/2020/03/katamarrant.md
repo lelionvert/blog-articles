@@ -1,7 +1,7 @@
 ---
 title: "Les Katas, c'est marrant."
 author: Maxime Reynier 
-published_date: 02 Mars 2020
+published_date: 2020-03-02
 description: Les Kata c'est marrant, Les katamarants... Oui bon je vais vous expliquer.
 tags: kata, practice, software craftsmanship, training
 ---
