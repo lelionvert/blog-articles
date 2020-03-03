@@ -19,7 +19,7 @@ Dans cette article je vais essayer de vous présenter ce que sont les `Kata`, en
 Le nom `Kata` est tiré des arts martiaux, il s’agit d’une chorégraphie de mouvements, inspiré de combattants expérimentés, qui sont utilisés pour la transmission de connaissances, de techniques ou de principe de combat.
 L’idée est de répéter des mouvements basiques ou complexes au point que l’on puisse les reproduire sans avoir à y réfléchir consciemment, aka **Mémoire Musculaire**.
 
-![Morpheus](/images/morpheus.gif)
+![Morpheus](/images/2020/03/katamarrant/morpheus.gif)
 
 Un `Code Kata` reprend ce concept et l’applique au monde du développement. On s'entraîne suivant le même principe en faisant des exercices spécialisés pour travailler des aspects spécifiques du code. 
 
@@ -33,7 +33,7 @@ En fonction de l’aspect du code que l’on veuille améliorer l'excercice du k
 Le kata va plutôt être un projet avec un métier limité représenté par quelques fichiers et du code comprenant des soucis de design plus ou moins évidents.
 Le but est de s'entrainter à devoir améliorer le code de façon progressive et sans causer de régressions.
 
-![Refactoring Hell](/images/refactoring_hell.gif)
+![Refactoring Hell](/images/2020/03/katamarrant/refactoring_hell.gif)
 
 L'un des katas les plus connus de ce type est celui ci : [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
@@ -112,7 +112,7 @@ Evidemment pas de tests unitaires disponibles pour pouvoir refactorer sereinemen
 
 Si le but du kata est d'amélioré sa pratique du [TDD](https://fr.wikipedia.org/wiki/Test_driven_development), le sujet du Kata va être un métier très  simple auquel on va pouvoir appliquer le TDD sans perturbations que l’on pourrait avoir dans des projets réels.
 
-![TDD_HELL](/images/tdd_hell.png)
+![TDD_HELL](/images/2020/03/katamarrant/tdd_hell.png)
 
 Exemple de Kata pour le TDD : [FizzBuzz](http://codingdojo.org/kata/FizzBuzz/)
 
@@ -176,7 +176,7 @@ La première chose qu’il me vient en tête quand je veux faire un `Kata`, c’
 En effet le but d’un `Kata` est d’apprendre et de s'entraîner, et toujours dans cette idée, quand vous allez travailler à plusieurs, que ce soit en `mob` (_plusieurs developpeurs 1 pc_) ou en `pair` (_2 developpeurs 1 pc_),
  vous allez partager des connaissances et apprendre non seulement du kata mais aussi des autres.
 
-{{< figure src="/images/pair_prog.gif">}}
+![pair_prog](/images/2020/03/katamarrant/pair_prog.gif)
 
 Ce qui peut être super enrichissant aussi, c’est de faire plusieurs groupes. Chacuns d'eux travaillent sur le kata pendant une durée définie.
 A la fin de celle-ci vous allez faire une **revue de code** par groupe et encore une fois partager et apprendre. Répétez cette étape sur plusieurs itérations.
