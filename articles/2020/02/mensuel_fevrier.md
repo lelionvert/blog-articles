@@ -1,7 +1,7 @@
 ---
 title: Le mensuel de Fevrier
 author: developpeur de la combe 
-published_date: 06 février 2020 
+published_date: 2020-02-06 
 description: ceci est une description
 tags: Test, TDD, BDD
 ---

@@ -10,7 +10,7 @@
                             <small>
                                 {{ publishedByLabel }} {{ article.author }}
                                 -
-                                <time :datetime="article.published_date">{{ article.published_date }}</time>
+                                <time :datetime="article.published_date">{{ formattedDate }}</time>
                             </small>
                         </p>
 
@@ -47,6 +47,13 @@
         data () {
             return {
                 publishedByLabel: 'par '
+            }
+        },
+        computed: {
+            formattedDate: function () {
+                return this.article.published_date.toLocaleDateString(undefined, {
+                    year: 'numeric', month: 'long', day: 'numeric'
+                });
             }
         },
         mounted: function () {
