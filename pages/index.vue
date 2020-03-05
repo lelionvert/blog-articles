@@ -22,7 +22,7 @@
             author: fileContent.attributes.author,
             published_date: new Date(Date.parse(fileContent.attributes.published_date)),
             description: fileContent.attributes.description,
-            tags: fileContent.attributes.tags.split(','),
+            tags: fileContent.attributes.tags ? fileContent.attributes.tags.split(',') :  '',
             file_name: fileName,
             route: `/${ fileName.substr(0, fileName.lastIndexOf('.')) }`
         });
