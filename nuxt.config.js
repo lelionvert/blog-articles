@@ -1,4 +1,5 @@
 import glob from 'glob'
+import FMMode from 'frontmatter-markdown-loader/mode'
 
 let files = glob.sync('**/*.md', { cwd: 'articles' })
 files = files.map(file => file.substr(0, file.lastIndexOf('.')))
@@ -50,19 +51,36 @@ module.exports = {
           exclude: /(node_modules)/
         })
       }
-      
+      const hljs = require('highlight.js');
       config.module.rules.push({
         test: /\.md$/,
-        loader: 'frontmatter-markdown-loader'
+        loader: 'frontmatter-markdown-loader',
+        options: {
+          markdownIt: {
+            langPrefix: 'language-',
+            highlight: function (str, lang) {
+              if (lang && hljs.getLanguage(lang)) {
+                try {
+                  return hljs.highlight(lang, str).value;
+                } catch (__) {}
+              }
+              return '';
+            }
+          }
+        }
       })
     }
   },
+  css: ['syntax.css'],
   modules: [
       '@nuxtjs/bulma',
-      '@nuxtjs/sitemap'
+      '@nuxtjs/sitemap',
   ],
   sitemap: {
       hostname: 'http://la-combe-du-lion-vert.fr/'
-  }
+  },
 }
+
+
+
 

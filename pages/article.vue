@@ -1,5 +1,6 @@
 <template>
         <section v-if="article" class="section has-background-light">
+
             <div class="container is-widescreen">
 
                 <nuxt-link to="/" class="button is-danger is-light is-hidden-touch">{{ goBackLabel }}</nuxt-link>
@@ -92,7 +93,7 @@
                         author: fileContent.attributes.author,
                         published_date: new Date(Date.parse(fileContent.attributes.published_date)),
                         description: fileContent.attributes.description,
-                        tags: fileContent.attributes.tags.split(','),
+                        tags: fileContent.attributes.tags ? fileContent.attributes.tags.split(',') :  '',
                         file_name: fileName,
                         content: fileContent.html,
                         route: route.path
