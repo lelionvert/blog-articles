@@ -108,7 +108,7 @@ Une forêt de `if`, imbrication plusieurs niveaux, `magic number`, etc...
 
 Evidemment pas de tests unitaires disponibles pour pouvoir refactorer sereinement.
 
-### Test Driven Design
+### Test Driven Development
 
 Si le but du kata est d'améliorer sa pratique du [TDD](https://fr.wikipedia.org/wiki/Test_driven_development), le sujet du Kata va être un métier très simple auquel on va pouvoir appliquer le TDD sans perturbations que l’on pourrait avoir dans des projets réels.
 
