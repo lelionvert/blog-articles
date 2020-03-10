@@ -16,7 +16,7 @@ Dans cet article, je vais vous présenter ce que sont les `Kata`; en quoi peuven
 
 ## Kata Kezako ?
 
-Le nom `Kata` est tiré des arts martiaux. Il s’agit d’une chorégraphie de mouvements, inspirée de combattants expérimentés. Ces mouvements sont utilisés pour la transmission de connaissances, de techniques ou de principe de combat.
+Le nom `Kata` est tiré des arts martiaux. Il s’agit d’une chorégraphie de mouvements, inspirée de combattants expérimentés. Ces mouvements sont utilisés pour la transmission de connaissances, de techniques ou de principes de combat.
 Pour le Kata, l’idée est de répéter des mouvements basiques ou complexes au point que l’on puisse les reproduire sans avoir à y réfléchir consciemment, aka **Mémoire Musculaire**.
 
 ![Morpheus](/images/2020/03/katamarrant/morpheus.gif)
@@ -25,13 +25,13 @@ Un `Code Kata` reprend ce concept et l’applique au monde du développement. L'
 
 ## Katas spécialisés  
 
-La plupart du temps, un kata va avoir des consignes et des règles simples à respecter (en fonction de la difficulté du kata ) permettant de s'entraîner plus facilement que sur des projets réels.
+La plupart du temps, un kata va avoir des consignes et des règles simples à respecter (selon la difficulté du kata ) permettant de s'entraîner plus facilement que sur des projets réels.
 En fonction de l’aspect du code que l’on souhaite améliorer, l'exercice du kata va changer de forme.
 
 ### Refactorisation
 
 Le kata va plutôt être un projet avec un métier limité : quelques fichiers et du code comprenant des soucis de design plus ou moins évidents.
-Le but est de s'entrainer à devoir améliorer le code de façon progressive et sans causer de régressions.
+Le but est de s'entrainer à améliorer le code de façon progressive et sans causer de régressions.
 
 ![Refactoring Hell](/images/2020/03/katamarrant/refactoring_hell.gif)
 
@@ -151,13 +151,13 @@ Il existe encore plein de sujets sur lesquels les katas peuvent nous aider à no
 * SOLID
 * etc...
 
-En fonction de la difficulté et des contraintes (de temps par exemple) que vous vous imposez les Kata peuvent vous permettre d’apprendre les bases, de maîtriser les fondements d’un principe, ou alors de vous challenger en appliquant ces principes sur plusieurs katas.
+En fonction de la difficulté et des contraintes (de temps par exemple) que vous vous imposez, les Kata peuvent vous permettre d’apprendre les bases, de maîtriser les fondements d’un principe ou alors de vous challenger en appliquant ces principes sur plusieurs katas.
 En finalité, cela vous permet de confirmer vos acquis.
  
 Quelques exemples de contraintes que vous pouvez vous imposer : 
  
  * Primitive Obsession :
-    * Le principe est de ne pas utilisé directement des primitives (int, long, ...), mais plutôt des _Classes_ ayant un sens métier.
+    * Le principe est de ne pas utiliser directement des primitives (int, long, ...), mais plutôt des _Classes_ ayant un sens métier.
     ```java
      int money = 10; // Invalide
     ``` 
@@ -166,7 +166,7 @@ Quelques exemples de contraintes que vous pouvez vous imposer :
      Money money = new Money(10); // Valide
     ```
  * Immutabilité
-    * Aucun effets de bord
+    * Aucun effet de bord
     * Chaque modification d'un objet ne le change pas mais renvoie une nouvelle instance de cet objet.
     
 ## Comment faire un Kata ? 
@@ -185,7 +185,7 @@ Les Katas ne sont pas des exercices one shot. En effet, il faut refaire plusieur
 
 ## Conclusion   
 
-Les katas sont de bons outils d’apprentissage et de partage. Il est primordial de retenir que c’est la répétion qui importe et surtout que l’important n’est pas la destination mais le voyage !
+Les katas sont de bons outils d’apprentissage et de partage. Il est primordial de retenir que c’est la répétition qui importe et surtout que l’important n’est pas la destination mais le voyage !
 
 > And yet the performance is not the goal. No martial artist practices his art so that they can perform on stage. A martial artist practices to achieve personal perfection in the art of self defense.
  ~ by [Uncle Bob Martin](https://sites.google.com/site/unclebobconsultingllc/home/articles/what-s-all-this-nonsense-about-katas) in _What's all this Nonsense about Katas?_
