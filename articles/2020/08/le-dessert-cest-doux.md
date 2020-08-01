@@ -2,8 +2,8 @@
 title: Le DESSERT c’est d'où ? 
 author: Kevin KODJO, Manuel NOVEMBRE, Clément VASSANT
 published_date: 2020-08-01
-description: Tout le monde revient de la Devoxx France avec des étoiles plein les yeux. Après cette 7ème édition, tous les développeurs reviennent avec un tas d’idées de refactoring qui vont changer la face du monde. Les projets du bassin parisien n’ont qu’à bien se tenir !!
-tags: conférence, brainstorming, open space, kata, bdd, tdd
+description: 
+tags: conférence, brainstorming, open space, kata
 ---
 
 >**Paris 1er arrondissement 19h30 trois alchimistes se retrouvent autour d’une bière pour l’apéro**  
