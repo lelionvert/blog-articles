@@ -12,21 +12,21 @@ tags: conférence, brainstorming, open space, kata
 
 **Kevin**: Eh ça roule, t’as profité du week-end, il faisait beau ? 
 
-**Manuel**: Bah ouais mais bon ce n’était pas aussi bien que le week-end d’avant au DESSERT 
+**Manuel**: Bah ouais mais bon ce n’était pas aussi bien que le week-end dernier au DESSERT 
 
 **Le serveur ayant entendu parler de dessert**: Ah on veut se faire plaisir avec une petite collation ? En dessert nous avons du tiramisu spéculos, banana split, Tarte Ta... 
 
 **Manuel**: Ah mais non pas du tout je ne veux pas de dessert, je parle du DESSERT ! 
 
-**Kevin**: Pour info, le dessert ça veut dire Désignons Ensemble du Software Solide Et Rigoureusement Testé
+**Kevin**: Pour info, le DESSERT ça veut dire Désignons Ensemble du Software Solide Et Rigoureusement Testé
 
 **Le serveur**:  Le DESSERT çà vient d’où ?? 
 
->**Manuel se levant fièrement, met un pied sur sa chaine et se lance dans un monologue**  
+>**Manuel se levant fièrement, met un pied sur sa chaise et se lance dans un monologue**  
 
-Chez La Combe nous évoluons autour des valeurs des software crafters, la qualité du code, la bienveillance et surtout l’échange de connaissance avec nos pairs, pour cela il faut pouvoir se regrouper. 
+Chez La Combe nous évoluons autour des valeurs des software crafters, la qualité du code, la bienveillance et surtout l’échange de connaissances avec nos pairs, pour cela il faut pouvoir se regrouper. 
 
-**Le serveur**: Se regrouper pour faire quoi au juste ? 
+**Le serveur**: Se réunir pour faire quoi au juste ? 
 
 **Kevin**: Eh bien plein de choses, le plus souvent on le fait lors de soirées entre collègues, mais on s’est vite rendu compte que ça ne laissait pas beaucoup de temps pour échanger librement, parler de nos préoccupations et même faire des katas. 
 ![paris](/images/2020/08/ledessert/01.jpg)
@@ -37,7 +37,7 @@ Chez La Combe nous évoluons autour des valeurs des software crafters, la qualit
 
 **Le serveur**: Pas mal la comparaison, c’est un peu comme Michel et ses cocktails, il en a fait des mauvais Mojito avant qu’il devienne notre expert cocktail du jeudi soir. 
 
-**Le serveur**:  Et ça a lieu où votre dessert ? 
+**Le serveur**:  Et ça a lieu où votre DESSERT ? 
 
 **Manuel**: Ça change chaque année, mais on ne lésine pas sur les moyens ! On essaye de s’éloigner un peu de Paris pour avoir de l’espace et être au calme, La dernière fois on était au Châteauform’ Les Prés d’Ecoublay . 
 
@@ -45,11 +45,11 @@ Chez La Combe nous évoluons autour des valeurs des software crafters, la qualit
 
 **Clément**: C’est clair, c’est ce genre de détail qui fait que la combe est atypique.  
 
-**Kevin**: Et vu qu’on l’organise durant l’été on peut profiter de l’extérieur pour continuer nos discussions ou profiter des activés extra professionnelles piscine, pétanque, karaoké ... 
+**Kevin**: Et vu qu’on l’organise durant l’été on peut profiter de l’extérieur pour continuer nos discussions ou profiter des activités extra professionnelles piscine, pétanque, karaoké ... 
 
 **Clément**: En gros il n’y a rien de vraiment prévu à l’avance. C’est anarchique dans le sens où on décide nous-même des choses qui nous paraissent importantes d’être discutées. 
 
-**Manuel** : C’est ça, on peut discuter pendant deux jours sur des sujets techniques comme les technos en vogue Rust, Clojure , vider son sac sur des retours d’expérience ou même des sujets qui n’ont rien à voir comme la place d'un développeur au sein de la société 
+**Manuel** : C’est ça, on peut échanger pendant deux jours sur des sujets techniques comme les technos en vogue Rust, Clojure , vider son sac sur des retours d’expérience ou même des sujets qui n’ont rien à voir comme la place d'un développeur au sein de la société 
 ![paris](/images/2020/08/ledessert/02.jpg)
 
 **Clément** : Tu as oublié la discussion sur comment faire de la bière ! 
@@ -62,11 +62,11 @@ Chez La Combe nous évoluons autour des valeurs des software crafters, la qualit
 
 **Clément**: Carrément, et comme les alchimistes nous souhaitons partager nos connaissances car nous savons que c’est le meilleur moyen pour apprendre et avancer vite !  
 
-**Manuel**: Bref ... Le dessert c’est doux ! 
+**Manuel**: Bref ... Le DESSERT c’est doux ! 
 
 **Le serveur**:  Marc !  Tu peux m’encaisser la table 6, il y a encore des hipsters qui ont trop forcé sur l’apéro ... 
 
-**Kevin**: Ah oui l’Apero c’est quand la prochaine réunion ?! 
+**Kevin**: Ah oui l’APERO c’est quand la prochaine réunion ?! 
 
 >**Entre fou rire musical, réflexion sur de la psychologie de groupe et approfondissement de sujets technique, cette seconde édition a été riche en émotions.  
 En effet elle fait suite à cette période ou la pandémie de COVID a accablé le monde entier pendant 3 mois. 
