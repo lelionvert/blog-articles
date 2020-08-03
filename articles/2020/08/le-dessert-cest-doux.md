@@ -2,7 +2,7 @@
 title: Le DESSERT c’est d'où ? 
 author: Kevin KODJO, Manuel NOVEMBRE, Clément VASSANT
 published_date: 2020-08-01
-description: 
+description: le dessert, késako? spoiler alert: cette article ne parle pas de fondant au chocolat.
 tags: conférence, brainstorming, open space, kata
 ---
 
@@ -79,4 +79,4 @@ C'était cette petite note sucrée qui redonne de la force pour finir l’année
 
 [Une conférence sans speaker : l’Open spaces](https://medium.com/arpinum/les-conf%C3%A9rences-open-spaces-7a0859757729) , Arnaud LEMAIRE
 
-Auteurs : [Kevin KODJO](https://github.com/kodjocod), [Manuel NOVEMBRE](https://github.com/ManuelNovembre), [Clément VASSANT]() 
+Auteurs : [Kevin KODJO](https://github.com/kodjocod), [Manuel NOVEMBRE](https://github.com/ManuelNovembre), [Clément VASSANT](https://github.com/massbath) 
