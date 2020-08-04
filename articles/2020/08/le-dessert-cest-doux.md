@@ -18,7 +18,7 @@ tags: conférence, brainstorming, open space, kata
 
 **Manuel**: Ah mais non pas du tout je ne veux pas de dessert, je parle du DESSERT ! 
 
-**Kevin**: Pour info, le DESSERT ça veut dire Désignons Ensemble du Software Solide Et Rigoureusement Testé
+**Kevin**: Pour info, le DESSERT ça veut dire Développons Ensemble du Software Solide Et Rigoureusement Testé
 
 **Le serveur**:  Le DESSERT çà vient d’où ?? 
 
@@ -77,4 +77,3 @@ C'était cette petite note sucrée qui redonne de la force pour finir l’année
 ## Autour du sujet  
 
 [Une conférence sans speaker : l’Open spaces](https://medium.com/arpinum/les-conf%C3%A9rences-open-spaces-7a0859757729) , Arnaud LEMAIRE
-
