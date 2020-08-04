@@ -6,7 +6,7 @@ description: le dessert, késako? Cet article ne parle pas de fondant au chocola
 tags: conférence, brainstorming, open space, kata
 ---
 
->**Paris 1er arrondissement 19h30 trois alchimistes se retrouvent autour d’une bière pour l’apéro**  
+>**Paris, 19h30 trois alchimistes se retrouvent autour d’une bière pour l’apéro**  
 
 ![paris](https://media.giphy.com/media/l41lNsmgu4aLV6YBq/source.gif)
 
@@ -24,11 +24,11 @@ tags: conférence, brainstorming, open space, kata
 
 >**Manuel se levant fièrement, met un pied sur sa chaise et se lance dans un monologue**  
 
-Chez La Combe nous évoluons autour des valeurs des software crafters, la qualité du code, la bienveillance et surtout l’échange de connaissances avec nos pairs, pour cela il faut pouvoir se regrouper. 
+Chez La Combe nous évoluons autour des valeurs des software crafters soient la qualité du code, la bienveillance et surtout l’échange de connaissances avec nos pairs et pour cela il faut pouvoir se regrouper. 
 
 **Le serveur**: Se réunir pour faire quoi au juste ? 
 
-**Kevin**: Eh bien plein de choses, le plus souvent on le fait lors de soirées entre collègues, mais on s’est vite rendu compte que ça ne laissait pas beaucoup de temps pour échanger librement, parler de nos préoccupations et même faire des katas. 
+**Kevin**: Eh bien plein de choses, le plus souvent on le fait lors de soirées entre collègues, mais on s’est vite rendu compte que ça ne laissait pas beaucoup de temps pour échanger librement, parler de nos préoccupations et aussi faire des katas. 
 
 ![paris](/images/2020/08/ledessert/01.jpg)
  
@@ -36,7 +36,7 @@ Chez La Combe nous évoluons autour des valeurs des software crafters, la qualit
 
 **Clément**: De la même manière que dans un dojo, les combattants s’entraînent en répétant des katas, les développeurs aussi peuvent répéter des exercices de programmation seul, en pair ou en mob-programming. 
 
-**Le serveur**: Pas mal la comparaison, c’est un peu comme Michel et ses cocktails, il en a fait des mauvais Mojito avant qu’il devienne notre expert cocktail du jeudi soir. 
+**Le serveur**: Pas mal la comparaison, c’est un peu comme Alex et ses cocktails ! Il en a fait des mauvais Mojito avant qu’il ne devienne notre expert cocktail du jeudi soir. 
 
 **Le serveur**:  Et ça a lieu où votre DESSERT ? 
 
@@ -46,7 +46,7 @@ Chez La Combe nous évoluons autour des valeurs des software crafters, la qualit
 
 **Clément**: C’est clair, c’est ce genre de détail qui fait que la combe est atypique.  
 
-**Kevin**: Et vu qu’on l’organise durant l’été on peut profiter de l’extérieur pour continuer nos discussions ou pour faire des activités comme la piscine, la pétanque, le karaoké ... 
+**Kevin**: Et vu qu’on l’organise durant l’été on peut profiter de l’extérieur pour continuer nos discussions ou profiter des activités proposées par le lieu : piscine, pétanque, karaoké ... 
 
 **Clément**: En gros il n’y a rien de vraiment prévu à l’avance. C’est anarchique dans le sens où l'on décide nous-même des choses qui nous paraissent importantes d’être abordées. 
 
@@ -71,7 +71,7 @@ Chez La Combe nous évoluons autour des valeurs des software crafters, la qualit
 **Kevin**: Ah oui l’APERO c’est quand la prochaine réunion ?! 
 
 >**Entre fou rire musical, réflexion sur de la psychologie de groupe et approfondissement de sujets techniques, cette seconde édition a été riche en émotions.  
-En effet elle fait suite à cette période ou la pandémie de COVID a accablé le monde entier pendant 3 mois. 
+En effet elle fait suite à cette période où la pandémie de COVID a accablé le monde entier pendant 3 mois. 
 C'était cette petite note sucrée qui redonne de la force pour finir l’année 2020 et se projeter sur des axes d'améliorations pour 2021.** 
 
 ![paris](/images/2020/08/ledessert/03.jpg)
