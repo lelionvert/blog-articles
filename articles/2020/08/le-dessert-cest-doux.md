@@ -2,7 +2,7 @@
 title: Le DESSERT c’est d'où ? 
 author: Kevin KODJO, Manuel NOVEMBRE, Clément VASSANT
 published_date: 2020-08-01
-description: le dessert, késako? Cette article ne parle pas de fondant au chocolat.
+description: le dessert, késako? Cet article ne parle pas de fondant au chocolat.
 tags: conférence, brainstorming, open space, kata
 ---
 
@@ -45,9 +45,9 @@ Chez La Combe nous évoluons autour des valeurs des software crafters, la qualit
 
 **Clément**: C’est clair, c’est ce genre de détail qui fait que la combe est atypique.  
 
-**Kevin**: Et vu qu’on l’organise durant l’été on peut profiter de l’extérieur pour continuer nos discussions ou profiter des activités extra professionnelles piscine, pétanque, karaoké ... 
+**Kevin**: Et vu qu’on l’organise durant l’été on peut profiter de l’extérieur pour continuer nos discussions ou pour faire des activités comme la piscine, la pétanque, le karaoké ... 
 
-**Clément**: En gros il n’y a rien de vraiment prévu à l’avance. C’est anarchique dans le sens où on décide nous-même des choses qui nous paraissent importantes d’être discutées. 
+**Clément**: En gros il n’y a rien de vraiment prévu à l’avance. C’est anarchique dans le sens où l'on décide nous-même des choses qui nous paraissent importantes d’être abordées. 
 
 **Manuel** : C’est ça, on peut échanger pendant deux jours sur des sujets techniques comme les technos en vogue Rust, Clojure , vider son sac sur des retours d’expérience ou même des sujets qui n’ont rien à voir comme la place d'un développeur au sein de la société 
 ![paris](/images/2020/08/ledessert/02.jpg)
