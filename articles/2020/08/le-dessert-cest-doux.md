@@ -12,13 +12,13 @@ tags: conférence, brainstorming, open space, kata
 
 **Kevin**: Eh ça roule, t’as profité du week-end, il faisait beau ? 
 
-**Manuel**: Bah ouais, mais bon ce n’était pas aussi bien que le week-end dernier au DESSERT 
+**Manuel**: Bah ouais, mais bon ce n’était pas aussi bien que le week-end dernier au DESSERT.
 
 **Le serveur ayant entendu parler de dessert**: Ah on veut se faire plaisir avec une petite collation ? En dessert nous avons du tiramisu spéculos, banana split, tarte ta... 
 
 **Manuel**: Ah mais, non pas du tout! Je ne veux pas de dessert, je parle du DESSERT ! 
 
-**Kevin**: Pour info, le DESSERT ça veut dire Discutons Ensemble du Software SOLID Et Rigoureusement Testé
+**Kevin**: Pour info, le DESSERT ça veut dire Discutons Ensemble du Software SOLID Et Rigoureusement Testé.
 
 **Le serveur**:  Le DESSERT ça vient d’où ?? 
 
