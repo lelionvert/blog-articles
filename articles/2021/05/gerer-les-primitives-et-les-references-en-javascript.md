@@ -97,7 +97,7 @@ Deux solutions classiques s’offrent à nous pour ne pas utiliser la même r�
 
 - Faire une copie d'un objet par une simple opération d'affectation tout en dissociant le couplage entre les deux objets. Javascript offre une méthode qui permet de faire cette manipulation : "Object.assign()" 
 
-Nous aurons au final un nouvel objet ”secondReference”  au niveau de la mémoire Heap et une nouvelle référence différente de celle du "firstRefrence" au niveau de la Stack.  
+Nous aurons au final un nouvel objet ”secondReference”  au niveau de la mémoire Heap et une nouvelle référence différente de celle du "firstReference" au niveau de la Stack.  
 
 ```javascript
 var firstReference = {lat:-34.397, lng:150.644};
@@ -135,7 +135,7 @@ Dans l'exemple ci-dessus, nous avons cherché à construire un premier objet "fi
 
 Nous avons ensuite modifié les deux attributs en passant par le deuxième objet “secondReference”.  
 
-Cette modification n’a pas eu d’impact sur l’attribut “lng” qui est resté inchangé tandis que l’attribut countries a été impacté et sa valeur a été modifié. 
+Cette modification n’a pas eu d’impact sur l’attribut “lng” qui est resté inchangé tandis que l’attribut "countries" a été impacté et sa valeur a été modifiée. 
 
 On peut conclure que la méthode "assign()" ne pourra pas gérer l'imbrication des références tout simplement parce que l'attribut "countries" est de type tableau (référence) et la méthode "push()" engendre la mutation des variables.  
 
@@ -149,7 +149,7 @@ Pour faire une copie complète et gérer l’imbrication, il y a trois solutions
     ```javascript
     var clone = {...original}
     ```
-    Ci-desous l'implémentation de notre exemple en utilisant le "Spread syntax"
+    Ci-dessous l'implémentation de notre exemple en utilisant le "Spread syntax"
     ```javascript
     var firstReference = {lat:-34.397, lng:150.644, countries:['france','italie','allemagne']}
     var secondReference = {
@@ -162,7 +162,7 @@ Pour faire une copie complète et gérer l’imbrication, il y a trois solutions
 
     https://jsfiddle.net/4vjcsy5a/3/
 
-    Attention,l'expression n'est pas encore supportée par tous les navigateurs et pourrait engendrer des erreurs pour votre loader comme BabelLoader ! 
+    Attention, l'expression n'est pas encore supportée par tous les navigateurs et pourrait engendrer des erreurs pour votre loader comme BabelLoader ! 
 
 2. Utiliser la librairie lodash.
     ```javascript
@@ -172,7 +172,7 @@ Pour faire une copie complète et gérer l’imbrication, il y a trois solutions
 
 3. Faire parcourir l'objet original.</br>
     Il ne faut jamais oublier que lorsque votre objet original ne contient aucune référence, la méthode Object.assign() est la plus pratique.</br>
-    Attention, l'ordre des paramètres de la méthode "Object.assign()" doivent etre respectés.
+    Attention, l'ordre des paramètres de la méthode "Object.assign()" doit être respecté.
 
 ### Références :
 - Stack vs Heap: https://www.quora.com/What-is-the-dif...  
