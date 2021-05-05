@@ -1,8 +1,9 @@
 ---
 title: Gerer les primitives et les reférences en javascript
 author: Ghassen ASKRI
-published_date: 03 Mai 2021
-description: Cet article a pour objectif de comprendre la différence entre ces deux variables en javascript
+published_date: 2021-05-05
+description: Cet article a pour objectif de comprendre la différence entre les primitives et les références en javascript
+tags: javascript, ECMAScript
 ---
 # Gérer les primitives et les références en JavaScript 
 
@@ -14,7 +15,7 @@ Cet article a pour objectif de comprendre la différence entre ces deux variable
 
 Avant de commencer, étudions les deux types de mémoire afin de comprendre comment faire la différence entre les primitives et les références.
 
-###Stack & Heap 
+## Stack & Heap 
 Les variables en JavaScript (et dans la plupart des autres langages de programmation) sont stockées à deux endroits : la Stack et la Heap.  
 
 La Stack est généralement une région continue de mémoire allouant un contexte local pour chaque fonction en cours d'exécution. Cette dernière est la plupart du temps, la plus protégée et la plus rapide. 
@@ -60,7 +61,7 @@ On peut alors en conclure que lorsqu'il s'agit d'une primitive, une opération d
 
 La plupart des développeurs junior savent qu'une simple affectation ne peut rien faire sur la valeur d'une variable. Malheureusement, à ce niveau-là, les problèmes techniques commencent à apparaître car ce comportement au niveau de la Stack n'est valable qu'avec les primitives et non avec les références.
 
-###Gérer des références  
+## Gérer des références  
 Commençons par une déclaration simple de deux références. Nous découvrirons ensuite l’impact sur la Stack et nous pourrons mieux comprendre les manipulations.  
 
 ```javascript
@@ -68,7 +69,7 @@ var firstReference = {lat:-34.397, lng:150.644}; 
 
 var secondReference = firstReference ;  
 ```
-![title](images/pic-03.png)
+![fig-01](images/pic-03.png)
 
  On remarque que l’objet “secondReference” a été enregistré dans la mémoire nommée "Heap" avec la même référence que l’objet “firstRefrence” 
 
@@ -175,12 +176,12 @@ Pour faire une copie complète et gérer l’imbrication, il y a trois solutions
     Attention, l'ordre des paramètres de la méthode "Object.assign()" doivent etre respectés.
 
 ### Références :
-- Stack vs Heap: https://www.quora.com/What-is-the-dif...  
+- Stack vs Heap: <https://www.quora.com/What-is-the-difference-between-the-stack-and-the-heap>
 
-- Object.assign(): https://developer.mozilla.org/en-US/d...  
+- Object.assign(): <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign>
 
-- Lodash Clone Deep: https://lodash.com/docs/#cloneDeep  
+- Lodash Clone Deep: <https://lodash.com/docs/#cloneDeep>
 
-- Spread Properties for ECMAScript :https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+- Spread Properties for ECMAScript: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax>
 
 
