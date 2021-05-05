@@ -40,7 +40,8 @@ console.log('the second primitive equal to : '+ secondPrimitive);
 
 Dans le code au sein du lien ci-dessus, une opération d'affectation sur les primitives permet de faire une copie de valeur au niveau de la Stack.
 
-![fig-02](/images/2021/05/primitives&references/pic-02.png)
+![fig-02](/images/2021/05/primitives&references/pic-02.png)  
+
 Maintenant si l’on change la valeur de la première primitive "firstPrimitive", la deuxième primitive sera-t-elle affectée ? Rien ne change puisqu'il existe une copie par valeur au niveau de la Stack.  
 
 ```javascript
