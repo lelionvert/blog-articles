@@ -36,7 +36,7 @@ var secondPrimitive  = firstPrimitive ;
 
 console.log('the second primitive equal to : '+ secondPrimitive);
 ```
-https://jsfiddle.net/yg85mwjr/ 
+<https://jsfiddle.net/yg85mwjr/>
 
 Dans le code au sein du lien ci-dessus, une opération d'affectation sur les primitives permet de faire une copie de valeur au niveau de la Stack.
 
@@ -55,7 +55,7 @@ firstPrimitive = 7;
 console.log('the first primitive equal to : ' +firstPrimitive);
 ```
 
-https://jsfiddle.net/92n3bejf/
+<https://jsfiddle.net/92n3bejf/>
 
 On peut alors en conclure que lorsqu'il s'agit d'une primitive, une opération d'affectation engendrera une copie par valeur au niveau de la Stack.  
 
@@ -84,7 +84,7 @@ secondReference.lng = 0.000;
 console.log('secondLng ' + secondReference.lng);
 console.log('firstLng  ' + firstReference.lng);
 ```
-https://jsfiddle.net/fan7vxqk/  
+<https://jsfiddle.net/fan7vxqk/> 
 
 On peut conclure que la manipulation des références exige une attention particulière pour ne pas modifier ou muter l’objet de départ.  
 
@@ -110,7 +110,7 @@ firstReference.lng = 0.000;
 console.log('secondLng ' + secondReference.lng);
 console.log('firstLng ' + firstReference.lng);
 ```
-https://jsfiddle.net/6awozefj/
+<https://jsfiddle.net/6awozefj/>
 
 C'est donc très simple ! Pour faire une copie d'un objet, il suffit de faire "Object.assign({},oldObject)" et le tour est joué !   
 
@@ -130,7 +130,7 @@ console.log('firstLng ', firstReference.lng);
 console.log('scondCountriesReference', secondReference.countries); 
 console.log('firstCountriesReference', secondReference.countries); 
 ``` 
-https://jsfiddle.net/4vjcsy5a/2/
+<https://jsfiddle.net/4vjcsy5a/2/>
 
 Dans l'exemple ci-dessus, nous avons cherché à construire un premier objet "firstReference". Celui-ci a ensuite été copié dans un deuxième objet "secondReference" en utilisant la méthode assign(). 
 
@@ -161,7 +161,7 @@ Pour faire une copie complète et gérer l’imbrication, il y a trois solutions
     console.log(secondReference.countries) // ['france','italie','allemagne', 'russie']
     ```
 
-    https://jsfiddle.net/4vjcsy5a/3/
+    <https://jsfiddle.net/4vjcsy5a/3/>
 
     Attention, l'expression n'est pas encore supportée par tous les navigateurs et pourrait engendrer des erreurs pour votre loader comme BabelLoader ! 
 
