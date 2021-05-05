@@ -171,7 +171,7 @@ Pour faire une copie complète et gérer l’imbrication, il y a trois solutions
     myObjCopy = _.cloneDeep(myObj);  
     ```
 
-3. Faire parcourir l'objet original.</br>
+3. Faire parcourir l'objet original.  
     Il ne faut jamais oublier que lorsque votre objet original ne contient aucune référence, la méthode Object.assign() est la plus pratique.  
     Attention, l'ordre des paramètres de la méthode "Object.assign()" doit être respecté.
 
