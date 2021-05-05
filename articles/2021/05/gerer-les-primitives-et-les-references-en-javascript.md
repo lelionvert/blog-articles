@@ -22,7 +22,7 @@ La Stack est généralement une région continue de mémoire allouant un conte
 
 La Heap, quant à elle, est une région beaucoup plus grande où tout est allouée dynamiquement. Cette séparation est utile pour rendre l'exécution plus sûre face à la corruption.  
 
-![title](images/pic-01.png)
+![fig-01](images/2021/05/primitives&references/pic-01.png)
 
 ## Gérer des Primitives  
 
@@ -40,7 +40,7 @@ https://jsfiddle.net/yg85mwjr/
 
 Dans le code au sein du lien ci-dessus, une opération d'affectation sur les primitives permet de faire une copie de valeur au niveau de la Stack.
 
-![title](images/pic-02.png)
+![fig-02](images/2021/05/primitives&references/pic-02.png)
 Maintenant si l’on change la valeur de la première primitive "firstPrimitive", la deuxième primitive sera-t-elle affectée ? Rien ne change puisqu'il existe une copie par valeur au niveau de la Stack.  
 
 ```javascript
@@ -69,7 +69,7 @@ var firstReference = {lat:-34.397, lng:150.644}; 
 
 var secondReference = firstReference ;  
 ```
-![fig-01](images/pic-03.png)
+![fig-03](images/2021/05/primitives&references/pic-03.png)
 
  On remarque que l’objet “secondReference” a été enregistré dans la mémoire nommée "Heap" avec la même référence que l’objet “firstRefrence” 
 
