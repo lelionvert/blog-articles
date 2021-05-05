@@ -1,5 +1,5 @@
 ---
-title: Gerer les primitives et les reférences en javascript
+title: Gérer les primitives et les reférences en javascript
 author: Ghassen ASKRI
 published_date: 2021-05-05
 description: Cet article a pour objectif de comprendre la différence entre les primitives et les références en javascript
@@ -73,7 +73,7 @@ var secondReference = firstReference ; 
 
  On remarque que l’objet “secondReference” a été enregistré dans la mémoire nommée "Heap" avec la même référence que l’objet “firstRefrence” 
 
-Pour avoir accès à notre objet, il faut pointer sur sa référence. Au niveau de la Stack, il existe une copie par référence et les deux objets pointent sur la même référence. Cela entraine un changement de valeur dans le premier objet si le deuxième objet a été modifié et vice-versa puisque les deux objets partagent la même référence.  
+Pour avoir accès à notre objet, il faut pointer sur sa référence. Au niveau de la Stack, il existe une copie par référence et les deux objets pointent sur la même référence. Cela entraîne un changement de valeur dans le premier objet si le deuxième objet a été modifié et vice-versa puisque les deux objets partagent la même référence.  
 ```javascript
 var firstReference = {lat:-34.397, lng:150.644};
 
