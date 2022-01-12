@@ -8,23 +8,24 @@ tags: Sustainable applications, Green Software Engineering, Cloud computing, Azu
 
 According to The Green Software Foundation, '`Green software is software that is responsible for emitting fewer greenhouse gases. Our focus is reduction, not neutralization.`'
 
-My name is Hacene KASDI, I’m a fullstack software engineer and Microsoft Azure enthusiast. Currently, consultant at [`@LeLion_Vert`](https://twitter.com/LeLion_Vert) for La Société Générale account, I work on cloud topics and software craftsmanship subjects.
+My name is Hacene KASDI, I’m a fullstack software engineer and Microsoft Azure enthusiast. Currently, consultant at [`@LeLion_Vert`](https://twitter.com/LeLion_Vert) for La Société Générale account, I work on cloud topics and software craft subjects.
 
-At [`@LeLion_Vert`](https://twitter.com/LeLion_Vert), we care about the code quality by reducing technical debt, applying the software craftsmanship best practices and developing carbon-aware applications 🌱
+At [`@LeLion_Vert`](https://twitter.com/LeLion_Vert), we care about the code quality by reducing technical debt, applying the software craft best practices and developing carbon-aware applications 🌱
 
 During this article, we will browse some green principles and contribute during a software developer journey, even by some small actions.
 
-In this first chapter, we will apply some best practices to reduce and optimize resource usage, the following is an example that we can apply during software designing or during the `architecture decision records` meeting ([`ADR`](https://adr.github.io/)).
+In this first chapter (suggestion This is the first of a series of article when we will .. because it sounds weird to use the term chapter here), we will apply some best practices to reduce and optimize resource usage, the following is an example that we can apply during software designing or during the `architecture decision records` meeting ([`ADR`](https://adr.github.io/)).
 
 
 ## Rant of a (Green) Software engineer !
 
-Sometimes, as software engineers, we make decisions without thinking about the consequences, we design and choose our development tools without a deep reflection considering the sustainability of the solution. 
+Sometimes, as software engineers, we make decisions without thinking about the consequences (consequences on what?), we design and choose our development tools without a deep reflection considering the sustainability of the solution. 
 
 ![seedling](/images/2021/11/sustainable-applications/cover.jpeg)
 
-One of the main philosophies of Green Software Engineering is that everyone has a part to play in the climate solution, so our decisions have a meaningful impact on the carbon pollution of our applications.
+One of the main philosophies of Green Software Engineering (if the term is known, you could add a reference) is that everyone has a part to play in the climate solution, so our decisions have a meaningful impact on the carbon pollution of our applications.
 
+Here the title Technical context is not clear. Are you introducing an example as an application with a given configuration? If yes, maybe you have to modify the title, up to you
 **Technical context:** Our application will be used around the world, It will be deployed on one location which is `East US` and the user’s requests around the world should be routed to this point and get the response from the Server.
 
 
@@ -175,6 +176,7 @@ resource "azurerm_app_service" "greenAppService" {
 ```
 
 ### Optimize the network traffic
+if you have changed the title you should here give the new term you used
 As presented on the **Technical context**, on the begining of this article, we made a decision to deploy our services on the `US (United States)` zone to serve the `EU (European Union)` users. let's take a look under the hood by inspecting some network insights.
 
 ![AzureSpeedNetwork](/images/2021/11/sustainable-applications/azureLatencySpeed.png)
@@ -212,6 +214,8 @@ Let’s focus on **DynamicSiteAcceleration** and its benefits :
 * **Route optimization:**
 
 Based on the shortest path, this algorithm chooses the most optimal path to the origin and the content is delivered fast via the most reliable route possible.
+(Est-ce que cela prend en compte les contraintes de sécurité reglementaires, je m'explique si dans la route trouvée il y a des pays où il ne faut pas transiter les données? 
+C'est peut-être une question bête ou peut-être tu as déjà donné la réponse mais je n'ai pas fait attention)
 
 ![vnetRouting](/images/2021/11/sustainable-applications/vnetdistance.png)
 
@@ -296,9 +300,9 @@ You see the same page that you ran earlier in an Azure web app. Azure CDN has re
 
 To ensure that this page is cached in the CDN, refresh the page. Two requests for the same asset are sometimes required for the CDN to cache the requested content.
  
-- For Azure CDN Standard from `Microsoft profiles`, propagation usually completes in ten minutes. 
-- For Azure CDN Standard from `Akamai profiles`, propagation usually completes within one minute. 
-- For Azure CDN Standard from `Verizon and Azure CDN Premium` from Verizon profiles, propagation usually completes within 90 minutes.
+- For Azure CDN Standard from `Microsoft profiles`, propagation usually completes in ten minutes (add reference if any for times listed here). 
+- For Azure CDN Standard from `Akamai profiles`, propagation usually completes within one minute. (same)
+- For Azure CDN Standard from `Verizon and Azure CDN Premium` from Verizon profiles, propagation usually completes within 90 minutes. (same)
 
 Furthermore, you can encounter some inconsistency, when you deploy a new version of the static content, due to the caching feature, the content will persist for some days.
 
