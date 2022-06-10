@@ -2,7 +2,7 @@
   <nav class="navbar is-pink-background-color" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-item" href="/">
-          <img class ="logo" src="https://la-combe-du-lion-vert.fr/wp-content/themes/la-combe-du-lion-vert/images/logo.svg">
+          <img class ="logo-header" src="https://la-combe-du-lion-vert.fr/wp-content/themes/la-combe-du-lion-vert/images/logo.svg">
           <h1 class="navbar-item is-white-text has-text-weight-bold is-family-monospace">
             A Software Crafter's Journey
           </h1>
@@ -71,7 +71,7 @@
   }
 </script>
 
-<style>
+<style scoped>
   .is-pink-background-color{
     background-color:  rgb(238,44,130);
   }
@@ -87,7 +87,7 @@
   .button:hover{
     color:  white;
   }
-  .logo{
+  .logo-header{
     width:100px; 
     height:100px;
   }
