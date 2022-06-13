@@ -34,6 +34,13 @@
     </client-only>
 </template>
 
+<style scoped>
+.box
+{
+    height: 100%; /*your measurement and unit*/
+}
+</style>
+
 <script>
     import TwitterShareLink from '~/components/twitterShareLink.vue'
     import Tags from '~/components/tags.vue'
