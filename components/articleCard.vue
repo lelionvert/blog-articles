@@ -37,7 +37,7 @@
 <style scoped>
 .box
 {
-    height: 100%; /*your measurement and unit*/
+    height: 100%;
 }
 </style>
 
