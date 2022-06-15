@@ -2,14 +2,14 @@
   <nav class="navbar is-pink-background-color" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-item" href="/">
-          <img class ="logo-header" src="https://la-combe-du-lion-vert.fr/wp-content/themes/la-combe-du-lion-vert/images/logo.svg">
-          <h1 class="navbar-item is-white-text has-text-weight-bold is-family-monospace">
+           <img class ="logo-header" src="../static/lcdlv_logo_blanccomplet.png">
+        </a>
+        <a v-if="isMinWidth()" class="navbar-item" href="/">
+          <h1  class="navbar-item is-white-text has-text-weight-bold is-family-monospace">
             A Software Crafter's Journey
           </h1>
         </a>
-        
-
-      <a class="navbar-burger burger" aria-label="menu" aria-expanded="false" v-on:click="openMenu()" v-bind:class="{ 'is-active': isNavbarMenuOpened }">
+      <a class="navbar-burger is-green-background-color burger" aria-label="menu" aria-expanded="false" v-on:click="openMenu()" v-bind:class="{ 'is-active': isNavbarMenuOpened }">
         <span aria-hidden="true"></span>
         <span aria-hidden="true"></span>
         <span aria-hidden="true"></span>
@@ -58,15 +58,34 @@
   export default {
     data() {
       return {
+        minWidth : 527, 
+        windowWidth: 0,
         isNavbarMenuOpened: false,
         aboutUsLink: 'http://la-combe-du-lion-vert.fr/',
         contributionLink: 'https://github.com/lelionvert/a-software-crafter-s-journey/tree/master/articles'
       }
     },
+ mounted() {
+    this.$nextTick(function() {
+      window.addEventListener('resize', this.getWindowWidth);
+      this.getWindowWidth();
+    })},
+
     methods: {
       openMenu: function () {
           this.isNavbarMenuOpened = !this.isNavbarMenuOpened;
+      },
+      getWindowWidth(event) {
+        this.windowWidth = document.documentElement.clientWidth;
+      },
+
+      isMinWidth(){
+        return this.windowWidth > this.minWidth
       }
+      
+    },
+    beforeDestroy() {
+      window.removeEventListener('resize', this.getWindowWidth);
     }
   }
 </script>
@@ -87,8 +106,13 @@
   .button:hover{
     color:  white;
   }
-  .logo-header{
-    width:100px; 
-    height:100px;
+  .navbar-burger{
+    height: 4.25rem !important;
   }
+  .logo-header{
+    height:100%;
+  }
+  .navbar-item img {
+    max-height: 2.75rem !important;
+}
 </style>
