@@ -3,7 +3,7 @@
 
             <div class="container is-widescreen">
                 <div class="buttons">
-                    <a class="button is-green-background-color is-white-text" href="/">
+                    <a class="button is-green-background-color is-white-text button-title" href="/">
                         <strong>{{goBackLabel}}</strong>
                     </a>
                     <div class="level-right">
@@ -138,8 +138,24 @@
   .button:hover{
     color:  white;
   }
+  .button-title{
+    font-family:FuturaMedium,serif;
+    font-weight: 50;
+  } 
   .level.is-mobile {
     justify-content: right ;
     margin: 0% 2% 0% 2%;
+}
+section{
+  font-family: FuturaMedium,serif;
+}
+
+@font-face {
+  font-family: FuturaMedium;
+  src: url("../static/Fonts/FuturaMedium.otf"); 
+}
+@font-face {
+  font-family: FuturaMedium;
+  src: url("../static/Fonts/FuturaMedium.otf"); 
 }
 </style>

@@ -40,7 +40,7 @@
       <div class="navbar-end">
         <div class="navbar-item">
           <div class="buttons">
-            <a class="button is-green-background-color is-white-text" :href="aboutUsLink" target="_blank">
+            <a class="button is-green-background-color is-white-text button-title" :href="aboutUsLink" target="_blank">
               <strong>&Agrave; propos de nous</strong>
             </a>
             <!--<a class="button is-light" :href="contributionLink" target="_blank">
@@ -106,10 +106,10 @@
     color:  white;
   }
   .navbar-burger{
-    height: 4.25rem !important;
+    height: unset !important ;
   }
   .logo-header{
-    height:100%;
+    height:100% !important;
   }
   .navbar-item img {
     max-height: 2.75rem !important;
@@ -118,9 +118,17 @@
     font-family:BananaSplit,serif;
     font-weight: 50;
   } 
+  .button-title{
+    font-family:FuturaMedium,serif;
+    font-weight: 50;
+  } 
 
   @font-face {
   font-family: BananaSplit;
   src: url("../static/Fonts/BANANASP.TTF");
+  }
+  @font-face {
+  font-family: FuturaMedium;
+  src: url("../static/Fonts/FuturaMedium.otf"); 
 }
 </style>

@@ -39,3 +39,18 @@
     }
   }
 </script>
+<style scoped>
+section{
+  font-family: FuturaMedium,serif;
+}
+section h1{
+  font-family: FuturaMedium,serif;
+  color: rgb(63, 216, 203);
+}
+
+@font-face {
+  font-family: FuturaMedium;
+  src: url("../static/Fonts/FuturaMedium.otf"); 
+}
+</style>
+
