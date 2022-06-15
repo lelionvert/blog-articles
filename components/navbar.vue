@@ -5,7 +5,7 @@
            <img class ="logo-header" src="../static/lcdlv_logo_blanccomplet.png">
         </a>
         <a v-if="isMinWidth()" class="navbar-item" href="/">
-          <h1  class="navbar-item is-white-text has-text-weight-bold is-family-monospace">
+          <h1  class="navbar-item is-white-text has-text-weight-bold title">
             A Software Crafter's Journey
           </h1>
         </a>
@@ -81,12 +81,11 @@
 
       isMinWidth(){
         return this.windowWidth > this.minWidth
+      }     
+      },
+      beforeDestroy() {
+        window.removeEventListener('resize', this.getWindowWidth);
       }
-      
-    },
-    beforeDestroy() {
-      window.removeEventListener('resize', this.getWindowWidth);
-    }
   }
 </script>
 
@@ -114,5 +113,14 @@
   }
   .navbar-item img {
     max-height: 2.75rem !important;
+  }
+  .title{
+    font-family:BananaSplit,serif;
+    font-weight: 50;
+  } 
+
+  @font-face {
+  font-family: BananaSplit;
+  src: url("../static/Fonts/BANANASP.TTF");
 }
 </style>
