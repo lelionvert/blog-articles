@@ -3,10 +3,6 @@
         <span class="icon is-small">
             <i class="fab fa-twitter" aria-hidden="true"></i>
         </span>
-        &nbsp;
-        <span v-if="showLabel">
-            {{ shareLabel }}
-        </span>
     </a>
 </template>
 

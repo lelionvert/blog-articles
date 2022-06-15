@@ -2,8 +2,15 @@
         <section v-if="article" class="section has-background-light">
 
             <div class="container is-widescreen">
-
-                <nuxt-link to="/" class="button is-danger is-light is-hidden-touch">{{ goBackLabel }}</nuxt-link>
+                <div class="buttons">
+                    <a class="button is-green-background-color is-white-text" href="/">
+                        <strong>{{goBackLabel}}</strong>
+                    </a>
+                    <div class="level-right">
+                        <Tags :article="article" />
+                    </div>
+                </div>
+                
 
                 <h1 class="title has-text-centered">{{ article.title }}</h1>
 
@@ -14,16 +21,12 @@
                         <time :datetime="article.published_date">{{ formattedDate }}</time>
                     </small>
                 </p>
-
                 <div class="box">
                     <article class="media">
                         <div class="media-content">
                             <client-only>
                                 <div class="content">
                                     <nav class="level is-mobile">
-                                        <div class="level-left">
-                                            <Tags :article="article" />
-                                        </div>
                                         <div class="level-right">
                                             <TwitterShareLink :article="article" />
                                         </div>
@@ -38,14 +41,7 @@
                                     <div v-html="article.content" class="has-text-justified"></div>
                                 </div>
 
-                                <nav class="level is-mobile">
-                                    <div class="level-left">
-                                        <Tags :article="article" />
-                                    </div>
-                                    <div class="level-right">
-                                        <TwitterShareLink :article="article" />
-                                    </div>
-                                </nav>
+                               
                             </client-only>
                         </div>
                     </article>
@@ -125,3 +121,25 @@
         }
     }
 </script>
+
+<style scoped>
+ .is-white-text{
+    color:  white;
+  }
+  .is-green-background-color{
+    background: rgb(63, 216, 203);
+  }
+  .buttons{
+      justify-content: space-between !important;
+  }
+  .button{
+    border-color: rgb(63, 216, 203) !important;
+  }
+  .button:hover{
+    color:  white;
+  }
+  .level.is-mobile {
+    justify-content: right ;
+    margin: 0% 2% 0% 2%;
+}
+</style>
