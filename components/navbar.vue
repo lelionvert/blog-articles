@@ -62,7 +62,7 @@
         windowWidth: 0,
         isNavbarMenuOpened: false,
         aboutUsLink: 'http://la-combe-du-lion-vert.fr/',
-        contributionLink: 'https://github.com/lelionvert/a-software-crafter-s-journey/tree/master/articles'
+        contributionLink: 'https://github.com/lelionvert/blog-articles/tree/master/articles'
       }
     },
  mounted() {
