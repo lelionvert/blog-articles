@@ -62,7 +62,7 @@
         windowWidth: 0,
         isNavbarMenuOpened: false,
         aboutUsLink: 'http://la-combe-du-lion-vert.fr/',
-        contributionLink: 'https://github.com/lelionvert/a-software-crafter-s-journey/tree/master/articles'
+        contributionLink: 'https://github.com/lelionvert/blog-articles/tree/master/articles'
       }
     },
  mounted() {
@@ -96,6 +96,7 @@
   .is-white-text{
     color:  white;
   }
+
   .is-green-background-color{
     background: rgb(63, 216, 203);
   }
@@ -129,3 +130,4 @@
   src: url("../static/Fonts/FuturaMedium.otf"); 
 }
 </style>
+
