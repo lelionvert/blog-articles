@@ -112,10 +112,10 @@
     height:100% !important;
   }
   .navbar-item img {
-    max-height: 2.75rem !important;
+    max-height: 5.75rem !important;
   }
   .title{
-    font-family:BananaSplit,serif;
+    font-family:FuturaMedium,serif;
     font-weight: 50;
   } 
   .button-title{
@@ -123,10 +123,7 @@
     font-weight: 50;
   } 
 
-  @font-face {
-  font-family: BananaSplit;
-  src: url("../static/Fonts/BANANASP.TTF");
-  }
+
   @font-face {
   font-family: FuturaMedium;
   src: url("../static/Fonts/FuturaMedium.otf"); 

@@ -39,6 +39,30 @@
 {
     height: 100%;
 }
+section h1{
+  font-family: FuturaMedium,serif;
+  color: rgb(63, 216, 203);
+}
+ .title{
+    font-family: MapleRegular,serif !important;
+}
+ .subtitle{
+  font-family: MapleRegular,serif !important;
+}
+
+p{
+    font-family: MapleRegular,serif !important;
+}
+
+@font-face {
+  font-family: MapleRegular;
+  src: url("../static/Fonts/Maple-Regular.otf"); 
+}
+
+@font-face {
+  font-family: FuturaMedium;
+  src: url("../static/Fonts/FuturaMedium.otf"); 
+}
 </style>
 
 <script>

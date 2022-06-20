@@ -146,13 +146,23 @@
     justify-content: right ;
     margin: 0% 2% 0% 2%;
 }
-section{
-  font-family: FuturaMedium,serif;
+ .title{
+ font-family: MapleRegular,serif !important;
+}
+ .subtitle{
+  font-family: MapleRegular,serif !important;
+}
+p{
+    font-family: MapleRegular,serif !important;
+}
+
+.has-text-justified {
+    font-family: MapleRegular,serif !important;
 }
 
 @font-face {
-  font-family: FuturaMedium;
-  src: url("../static/Fonts/FuturaMedium.otf"); 
+  font-family: MapleRegular;
+  src: url("../static/Fonts/Maple-Regular.otf"); 
 }
 @font-face {
   font-family: FuturaMedium;
