@@ -1,7 +1,7 @@
 <template>
     <div>
         <span class="tag level-item" v-for="(tag, index) in article.tags" :key="index">
-            {{ tag }}
+            <strong># {{ tag }}</strong>
         </span>
     </div>
 </template>
