@@ -39,15 +39,22 @@
 {
     height: 100%;
 }
+
 section h1{
   font-family: FuturaMedium,serif;
   color: rgb(63, 216, 203);
 }
- .title{
+
+.title{
     font-family: MapleRegular,serif !important;
 }
- .subtitle{
+
+.subtitle{
   font-family: MapleRegular,serif !important;
+}
+
+.level-left {
+    width: 100%;
 }
 
 p{
