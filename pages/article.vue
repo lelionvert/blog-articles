@@ -29,6 +29,7 @@
                                     <nav class="level is-mobile">
                                         <div class="level-right">
                                             <TwitterShareLink :article="article" />
+                                            <LinkedInShareLink :article="article" />
                                         </div>
                                     </nav>
 
@@ -71,11 +72,13 @@
 
 <script>
     import TwitterShareLink from '~/components/twitterShareLink.vue'
+    import LinkedInShareLink from '~/components/linkedInShareLink.vue'
     import Tags from '~/components/tags.vue'
 
     export default {
         components: {
             TwitterShareLink,
+            LinkedInShareLink,
             Tags
         },
         async asyncData({ route }) {
@@ -125,41 +128,45 @@
 <style scoped>
  .is-white-text{
     color:  white;
-  }
-  .is-green-background-color{
+ }
+ .is-green-background-color{
     background: rgb(63, 216, 203);
-  }
-  .buttons{
-      justify-content: space-between !important;
-  }
-  .button{
+ }
+ .buttons{
+    justify-content: space-between !important;
+ }
+ .button{
     border-color: rgb(63, 216, 203) !important;
-  }
-  .button:hover{
+ }
+ .button:hover{
     color:  white;
-  }
-  .button-title{
+}
+.button-title{
     font-family:FuturaMedium,serif;
     font-weight: 50;
-  } 
-  .level.is-mobile {
+} 
+ .level.is-mobile {
     justify-content: right ;
     margin: 0% 2% 0% 2%;
 }
  .title{
- font-family: MapleRegular,serif !important;
+    font-family: MapleRegular,serif !important;
 }
  .subtitle{
-  font-family: MapleRegular,serif !important;
+    font-family: MapleRegular,serif !important;
 }
 p{
     font-family: MapleRegular,serif !important;
 }
-
+.media-right {
+    display: inline-flex;
+}
+.media-right > * {
+    padding-left: 8px;
+}
 .has-text-justified {
     font-family: MapleRegular,serif !important;
 }
-
 @font-face {
   font-family: MapleRegular;
   src: url("../static/Fonts/Maple-Regular.otf"); 
