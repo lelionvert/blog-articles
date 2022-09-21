@@ -28,6 +28,7 @@
 
                 <div class="media-right">
                     <TwitterShareLink :article="article" :showLabel="false" />
+                    <LinkedInShareLink :article="article" :showLabel="false" />
                 </div>
             </article>
         </a>
@@ -57,6 +58,14 @@ section h1{
     width: 100%;
 }
 
+.media-right {
+    display: inline-flex;
+}
+
+.media-right > * {
+    padding-left: 8px;
+}
+
 p{
     font-family: MapleRegular,serif !important;
 }
@@ -74,12 +83,14 @@ p{
 
 <script>
     import TwitterShareLink from '~/components/twitterShareLink.vue'
+    import LinkedInShareLink from '~/components/linkedInShareLink.vue'
     import Tags from '~/components/tags.vue'
 
     export default {
         props: ['article'],
         components: {
             TwitterShareLink,
+            LinkedInShareLink,
             Tags
         },
         data () {
