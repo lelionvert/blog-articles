@@ -58,7 +58,7 @@ Avec le rôle de manager, vient parfois la responsabilité des entretiens annuel
 
  
 
-'## **Stéréotype : Opinion toute faite réduisant les particularités.** '
+'# **Stéréotype : Opinion toute faite réduisant les particularités.** '
 
 'Comme le souligne Alfred Hitchcock : "Il vaut mieux partir d'un cliché que d'y arriver". C’est pourquoi rassembler les idées reçues mais également les retours d’expériences de mes consultants et clients étaient déterminant dans mon analyse. '
 
@@ -87,7 +87,7 @@ Je vous propose une dernière partie sous forme d’introspection, pour répondr
 
  
 
-### **C’est une bonne situation ça, ingénieur d’affaires ?**
+# **C’est une bonne situation ça, ingénieur d’affaires ?**
 
 'Je pense me faire l’écho de l’ensemble de la profession en citant Sénèque pour définir *notre situation* : « La vie, ce n'est pas d'attendre que les orages passent, c'est d'apprendre comment danser sous la pluie. »' 
 
@@ -112,7 +112,7 @@ Alors convaincu ?
  
 
 J'espère vous avoir apporté un nouvel éclairage sur mon métier avec un maximum de transparence. 
-'Naturellement, impossible d'aborder ni d'approfondir tous les sujets liés au métier d’ingénieur d’affaires, pour n’en citer que deux essentiels: la gestion de l’intercontrat et la négociation des tarifs journaliers moyens (TJM). Les prochains formats se concentreront sur des problématiques précises en mettant en avant des exemples authentiques. '
+'Naturellement, impossible d'aborder ni d'approfondir tous les sujets liés au métier d’ingénieur d’affaires, pour n’en citer que deux essentiels: la gestion de l’intercontrat et la négociation des tarifs journaliers moyens (TJM). Les prochains formats se concentreront sur des problématiques précises en mettant en avant des exemples authentiques :) '
 
 Je compte sur vous pour me faire part de vos commentaires, remarques, critiques et suggestions!
 
