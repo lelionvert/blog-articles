@@ -65,6 +65,7 @@ Comme le souligne Alfred Hitchcock : "Il vaut mieux partir d'un cliché que d'y 
 Notons que je leur ai demandé de me parler de leurs expériences avec les ingénieurs d’affaires au sens large, personnelles ou transmises et parfois anciennes. Plutôt que de répondre aux griefs personnels qui relèvent bien souvent de situations spécifiques, j’ai préféré regrouper en grands thèmes les points saillants des retours.
 
 C'est parti !
+
 ![SmYd](https://user-images.githubusercontent.com/113584197/193765856-12d4cf4c-0178-4815-944c-c3d906ac0bf9.gif)
 
 
