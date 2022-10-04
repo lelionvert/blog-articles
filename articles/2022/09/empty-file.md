@@ -63,6 +63,7 @@ C’est bien joli mais ce n’est que ma définition (très personnelle) du post
 Comme le souligne Alfred Hitchcock : "Il vaut mieux partir d'un cliché que d'y arriver". C’est pourquoi rassembler les idées reçues mais également les retours d’expériences de mes consultants et clients étaient déterminant dans mon analyse. 
 
 Notons que je leur ai demandé de me parler de leurs expériences avec les ingénieurs d’affaires au sens large, personnelles ou transmises et parfois anciennes. Plutôt que de répondre aux griefs personnels qui relèvent bien souvent de situations spécifiques, j’ai préféré regrouper en grands thèmes les points saillants des retours.
+
 C'est parti !
 ![SmYd](https://user-images.githubusercontent.com/113584197/193765856-12d4cf4c-0178-4815-944c-c3d906ac0bf9.gif)
 
@@ -115,7 +116,6 @@ J'espère vous avoir apporté un nouvel éclairage sur mon métier avec un maxim
 Naturellement, impossible d'aborder ni d'approfondir tous les sujets liés au métier d’ingénieur d’affaires, pour n’en citer que deux essentiels: la gestion de l’intercontrat et la négociation des tarifs journaliers moyens (TJM). Les prochains formats se concentreront sur des problématiques précises en mettant en avant des exemples authentiques :) 
 
 Je compte sur vous pour me faire part de vos commentaires, remarques, critiques et suggestions!
-![image](https://user-images.githubusercontent.com/113584197/193766221-9df929d3-e3ce-4934-9df8-c2bd14174a4f.png)
 
 
 **Librement adapté du film Hook*
