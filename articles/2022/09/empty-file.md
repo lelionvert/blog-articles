@@ -95,7 +95,7 @@ Je pense me faire l’écho de l’ensemble de la profession en citant Sénèque
 
 En effet, le titre de cette dernière partie a longtemps été « **Le château de cartes** » tant cette métaphore décrit parfaitement le travail d’un ingénieur d’affaires. Chaque étape de nos journées est comparable au positionnement en équilibre d’une carte puis d’une autre et encore d’une autre, dans le but de réaliser un château (plus ou moins haut) qui nous permet d’atteindre nos objectifs. Tout le monde a déjà retenu son souffle dans les derniers instants d’intense concentration qui concluent une activité minutieuse ; pour nous cette sensation est omniprésente. La comparaison est d’autant plus fidèle que l’ingénieur d’affaires n’a souvent aucun moyen de se prémunir ni de contrer un coup de vent qui fera s’écrouler sa structure.    
 
-![image](https://user-images.githubusercontent.com/113584197/193863031-a4d00586-74b6-403f-8c4c-64dc3f5bf59b.png)
+![Cards2](https://user-images.githubusercontent.com/113584197/193863628-ea24cc66-c6cb-42e6-9409-ced3229b2d65.gif)
 
 
 Effectivement, même en ayant très bien rempli son rôle à chaque étape, les décisions finales ne lui appartiennent jamais : le client d’un côté et le consultant de l’autre ont le pouvoir et décident d’avancer ensemble ou non. Toutes les actions, tous les leviers actionnés et toutes les futures complications déjouées en avance ne servent qu’à créer une opportunité.
