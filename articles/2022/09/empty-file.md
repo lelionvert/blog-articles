@@ -2,7 +2,7 @@
 title: 'Ingénieur d’Affaires ou Commercial : pour qui tu me prends ?'
 author: Thomas PIERRON
 published_date: 2022-09-30
-description: J’ai lu dernièrement qu’on utilise des ingénieurs d’affaires à la place des rats dans les expérimentations scientifiques. On le fait pour deux raisons. Primo, les savants risquent moins de s’attacher aux ingénieurs d’affaires et secundo, il y a des choses que même les rats ne font pas.
+description: J’ai lu dernièrement qu’on utilise des ingénieurs d’affaires à la place des rats dans les expérimentations scientifiques. On le fait pour deux raisons. Primo, les savants risquent moins de s’attacher aux ingénieurs d’affaires et secundo, il y a des choses que même les rats ne font pas.*
 tags: Ingénieur d’Affaires, Commercial, Cabinet de Conseil, ESN, Software Craftsmanship
 ---
 
@@ -32,6 +32,9 @@ Certains ne font pas du tout de recrutement et d’autres n’accompagnent pas l
 On parle généralement de profils *chasseurs* et *éleveurs*. 
 Avec les outils à sa disposition, le premier peut très vite devenir expert en sales hacking, scrapper les données LinkedIn de ses prospects et utiliser au mieux la prospection multicanale. Quant au second, il passera plutôt ses journées en rendez-vous clients au plus proche de son contexte et de ses problématiques pour lui apporter des solutions. Malgré cette distinction de profil, notons que la grande majorité des ingénieurs d’affaires portent ces 2 casquettes au quotidien.
 
+![Salesmen](https://user-images.githubusercontent.com/113584197/193622507-e0f4baee-025c-4c20-8d60-15c737d0920d.png)
+
+
 La stratégie commerciale et notre connaissance des clients sont donc les premiers facteurs qui déterminent le déroulement de nos journées de travail. Néanmoins, ces efforts ne sont récompensés que si nous pouvons proposer les compétences de nos consultants à nos clients.
 
 **Le recrutement**, de profils IT, en 2022, donnera sûrement lieu à un autre article tant ce sujet est complexe et passionnant. Il me semble essentiel de profiter de ces quelques lignes pour rendre hommage à tous les « recruteurs », « talent acquisition specialist » et « chargé de recrutement » qui sont au cœur de nos métiers : bravo et merci.
@@ -60,6 +63,9 @@ C’est bien joli mais ce n’est que ma définition (très personnelle) du post
 Comme le souligne Alfred Hitchcock : "Il vaut mieux partir d'un cliché que d'y arriver". C’est pourquoi rassembler les idées reçues mais également les retours d’expériences de mes consultants et clients étaient déterminant dans mon analyse. 
 
 Notons que je leur ai demandé de me parler de leurs expériences avec les ingénieurs d’affaires au sens large, personnelles ou transmises et parfois anciennes. Plutôt que de répondre aux griefs personnels qui relèvent bien souvent de situations spécifiques, j’ai préféré regrouper en grands thèmes les points saillants des retours.
+C'est parti !
+![SmYd](https://user-images.githubusercontent.com/113584197/193765856-12d4cf4c-0178-4815-944c-c3d906ac0bf9.gif)
+
 
 Héritage d’un passé auquel les SSII puis les ESN tentent de tourner le dos depuis plusieurs années, la réputation de « **vendeur de viande** » est toujours dans l’inconscient collectif. Heureusement, le positionnement « *consultant centric* » vers lequel se tournent les cabinets de conseils et la mise en place de réels plans de carrière ont mis fin à la grande majorité des dérives, raréfiant les récits d’expériences désastreuses. 
 L’image qui en découlait, du commercial qui joue les consultants comme des pièces sur un échiquier, s’efface progressivement. Il ne tient qu’à nous d’accélérer le processus, parfois par des gestes simples et l’exemple de notre dénomination est le plus éloquent : je réagis systématiquement lorsqu’un collaborateur m’appelle « mon commercial » auprès de notre client ou d’autres consultants, inconsciemment (ou pas) cela réduit mon rôle, mes activités, mes interactions à cette fonction unique. Or, nous avons vu précédemment qu’il faut plus d’une corde à son arc en dehors de savoir vendre pour être un bon ingénieur d’affaires. Sans avoir la prétention de définir ici ce qu’est un « bon ingénieur d’affaires », mes interlocuteurs m’ont fourni bon nombre d’exemples de ce qui était tout à fait l’inverse !
@@ -97,7 +103,7 @@ La compétence qui s’acquiert et devient vite indispensable dans cet environne
 On apprend énormément au contact de tous nos interlocuteurs et c’est un vrai plaisir ! Par exemple accompagner un client qui est très engagé dans son projet et qui nous explique ses enjeux se révèle vite passionnant. De la même façon, beaucoup de consultants aiment expliquer leur métier et décrire en quoi ils ont apporté des solutions pour répondre aux besoins des clients. A mon échelle, afin de toujours mieux comprendre les problématiques et attentes de mes clients, j’ai obtenu 3 certifications relatives à la gestion de projet. Ces connaissances théoriques m’ont permis de nombreuses fois d’approfondir les sujets et de m’assurer que les candidats étaient en adéquation avec une opportunité. Plus concrètement encore, grâce à ces compétences j’ai pu co-construire l’offre Agile au sein de La Combe du Lion Vert. 
 
 Nous avons vu plus haut que la journée type n’existe pas. L’un des aspects les plus plaisants de ce poste est en effet qu’un ingénieur d’affaires articule son emploi du temps librement tant que ses objectifs sont atteints. Pouvoir choisir de prendre du temps pour échanger lors d’un long déjeuner avec un consultant ou bien de questionner le CTO sur une nouvelle technologie dont on entend parler par exemple, sont des tâches de fond qu’il ne faut pas négliger. Cette liberté, à double-tranchant, peut vite se retourner contre nos intérêts si elle n’est pas exercée sérieusement.
-Difficile ne pas évoquer les répercussions du COVID-19, tant nos habitudes de travail ont été modifiées dans le métier du conseil. La généralisation du télé-travail et des visio-conférences ont beaucoup affecté les rapports humains tant avec nos collaborateurs qu’avec nos clients. En interne, il a fallu et il faut continuer de recréer du lien. Plus trivialement, la bataille pour obtenir un rendez-vous physique avec un prospect demande toujours plus de persévérance.   
+Difficile ne pas évoquer les **répercussions du COVID-19**, tant nos habitudes de travail ont été modifiées dans le métier du conseil. La généralisation du télé-travail et des visio-conférences ont beaucoup affecté les rapports humains tant avec nos collaborateurs qu’avec nos clients. En interne, il a fallu et il faut continuer de recréer du lien. Plus trivialement, la bataille pour obtenir un rendez-vous physique avec un prospect demande toujours plus de persévérance.  
 
 Côté financier, bâtir une partie non-négligeable de son salaire apporte un sentiment d’indépendance et une **motivation à se dépasser**. Il faut pour autant comprendre les cycles du métier : nous pouvons alterner entre une période de découragement et une phase d’euphorie parfois sur la même semaine et quelquefois sur plusieurs mois. Ces montagnes russes émotionnelles s’entremêlent avec des moments très calmes ou rien ne semble vouloir avancer et d’autres où les journées sont des sprints enchaînant les appels, les rendez-vous et les prises de décisions. L’exaltation des réussites et la résilience face aux revers sont les deux faces d’une même pièce, l’important est d’apprécier son travail et d’y trouver du sens tout au long de l’année et non pas uniquement dans les meilleurs moments.
 
@@ -109,6 +115,7 @@ J'espère vous avoir apporté un nouvel éclairage sur mon métier avec un maxim
 Naturellement, impossible d'aborder ni d'approfondir tous les sujets liés au métier d’ingénieur d’affaires, pour n’en citer que deux essentiels: la gestion de l’intercontrat et la négociation des tarifs journaliers moyens (TJM). Les prochains formats se concentreront sur des problématiques précises en mettant en avant des exemples authentiques :) 
 
 Je compte sur vous pour me faire part de vos commentaires, remarques, critiques et suggestions!
+![image](https://user-images.githubusercontent.com/113584197/193766221-9df929d3-e3ce-4934-9df8-c2bd14174a4f.png)
 
 
 **Librement adapté du film Hook*
