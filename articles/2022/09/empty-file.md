@@ -30,7 +30,7 @@ Certains ne font pas du tout de recrutement et d’autres n’accompagnent pas l
 
 **La prospection de nouveaux clients** est la première valeur ajoutée d’un commercial. Pour autant quand certains épluchent le bottin et passent des heures avant d’avoir une personne au téléphone, d’autres reçoivent tous les jours plusieurs appels d’offres en cours de la part des clients.
 On parle généralement de profils *chasseurs* et *éleveurs*. 
-Avec les outils à sa disposition, le premier peut très vite devenir expert en sales hacking, scrapper les données LinkedIn de ses prospects et utiliser au mieux la prospection multicanale. Quant au second, il passera plutôt ses journées en rendez-vous clients au plus proche de son contexte et de ses problématiques pour lui apporter des solutions. Malgré cette distinction de profil, notons que la grande majorité des ingénieurs d’affaires portent ces 2 casquettes au quotidien.
+Avec les outils à sa disposition, le premier peut très vite devenir expert en sales hacking, scrapper les données LinkedIn de ses prospects et utiliser au mieux la prospection multicanale. Quant au second, il passera plutôt ses journées en rendez-vous clients au plus proche de son contexte et de ses problématiques pour lui apporter des solutions. Malgré cette distinction de profil, notons que la grande majorité des ingénieurs d’affaires portent ces deux casquettes au quotidien.
 
 ![Salesmen](https://user-images.githubusercontent.com/113584197/193622507-e0f4baee-025c-4c20-8d60-15c737d0920d.png)
 
