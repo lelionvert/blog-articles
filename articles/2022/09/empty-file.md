@@ -8,10 +8,10 @@ tags: Ingénieur d’Affaires, Commercial, Cabinet de Conseil, ESN, Software Cra
 
 Bonjour, moi c’est Thomas, j’occupe le poste d’ingénieur d’affaires depuis bientôt 6 ans, actuellement au sein de La Combe du Lion Vert.  
 
-Dans cet article je vous propose de mettre un coup de projecteur sur mon métier et de réaliser que chacun de mes interlocuteurs a sa propre vision, souvent partielle, parfois partiale, de mon rôle.
+Dans cet article je vous propose de **mettre un coup de projecteur sur mon métier** et de réaliser que chacun de mes interlocuteurs a sa propre vision, souvent partielle, parfois partiale, de mon rôle.
 (Si vous n’êtes pas coutumier du monde du conseil, séance de rattrapage [ici](https://www.capital.fr/votre-carriere/esn-entreprise-de-services-numeriques-definition-et-fonctionnement-1405805))
 
-Posons les bases et la langue de bois à terre tout de suite : cet article n’est pas une offre d’emploi et n’a pas vocation à vous vendre quoi que ce soit. J’ai interrogé mes consultants, clients, prospects et collègues sur leur perception de ma fonction pour tordre le cou à un maximum de clichés (spoiler : pas tous) et vous donner ma vision de ce métier.
+Posons les bases et la langue de bois à terre tout de suite : cet article n’est pas une offre d’emploi et n’a pas vocation à vous vendre quoi que ce soit. **J’ai interrogé mes consultants, clients, prospects et collègues** sur leur perception de ma fonction pour tordre le cou à un maximum de clichés (spoiler : pas tous) et vous donner ma vision de ce métier.
 
 Vous verrez que, si je n’ai censuré aucune critique ni paradoxe lié à mon rôle, j’ai également eu à cœur de mettre en avant les satisfactions et joies de celui-ci. Ma réflexion a débuté suite à la question pourtant anodine d’un consultant… 
 
