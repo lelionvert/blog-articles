@@ -1,11 +1,11 @@
 ---
 title: 'Ingénieur d’Affaires ou Commercial : pour qui tu me prends ?'
+![Yoyo](https://user-images.githubusercontent.com/113584197/194553002-29bb3557-1276-478f-8d16-b8bba6d806f4.jpg)
 author: Thomas PIERRON
 published_date: 2022-09-30
 description: J’ai lu dernièrement qu’on utilise des ingénieurs d’affaires à la place des rats dans les expérimentations scientifiques. On le fait pour deux raisons. Primo, les savants risquent moins de s’attacher aux ingénieurs d’affaires et secundo, il y a des choses que même les rats ne font pas.*
 tags: Ingénieur d’Affaires, Commercial, Cabinet de Conseil, ESN, Software Craftsmanship
 ---
-![Yoyo](https://user-images.githubusercontent.com/113584197/194553002-29bb3557-1276-478f-8d16-b8bba6d806f4.jpg)
 
 Bonjour, moi c’est Thomas, j’occupe le poste d’ingénieur d’affaires depuis bientôt 6 ans, actuellement au sein de La Combe du Lion Vert.  
 
