@@ -16,7 +16,7 @@ Posons les bases et la langue de bois à terre tout de suite : cet article n’e
 Vous verrez que, si je n’ai censuré aucune critique ni paradoxe lié à mon rôle, j’ai également eu à cœur de mettre en avant les satisfactions et joies de celui-ci. Ma réflexion a débuté suite à la question pourtant anodine d’un consultant… 
 
 
-# **« Mais qu’est-ce que tu fais de tes journées au final ? »**
+                                                                   # **« Mais qu’est-ce que tu fais de tes journées au final ? »**
 
 C’est bien entendu quand je lui ai rétorqué : « à ton avis ? » que le sujet a révélé toute sa profondeur et au fil de l’échange, nous avons construit la structure de ce qui deviendrait cet article.
 
