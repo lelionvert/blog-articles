@@ -93,6 +93,7 @@
                         published_date: new Date(Date.parse(fileContent.attributes.published_date)),
                         description: fileContent.attributes.description,
                         tags: fileContent.attributes.tags ? fileContent.attributes.tags.split(',') :  '',
+                        shareImage: fileContent.attributes.shareImage,
                         file_name: fileName,
                         content: fileContent.html,
                         route: route.path
@@ -118,8 +119,10 @@
             }
         },
         head () {
+            var shareImagePath = this.article.shareImage ? this.article.shareImage : '/images/logos/logo_fond_blanc.jpg' ;
             return {
                 title: `${ this.article ? this.article.title : 'Erreur 404' } - A Software Crafter's Journey`,
+                meta: [ { hid: 'og:image', property: 'og:image', content: shareImagePath } ]
             }
         }
     }
