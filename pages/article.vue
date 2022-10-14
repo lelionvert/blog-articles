@@ -119,7 +119,7 @@
             }
         },
         head () {
-            var shareImagePath = this.article.shareImage ? this.article.shareImage : '/images/logo/logo_fond_blanc.jpg' ;
+            var shareImagePath = this.article.shareImage ? this.article.shareImage : '/images/logos/logo_fond_blanc.jpg' ;
             return {
                 title: `${ this.article ? this.article.title : 'Erreur 404' } - A Software Crafter's Journey`,
                 meta: [ { hid: 'og:image', property: 'og:image', content: shareImagePath } ]
