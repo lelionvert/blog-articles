@@ -120,6 +120,48 @@ Naturellement, impossible d'aborder ni d'approfondir tous les sujets li√©s au m√
 
 Je compte sur vous pour me faire part de vos commentaires, remarques, critiques et suggestions!
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Best version v2](https://user-images.githubusercontent.com/113584197/195785939-cf92ab4d-485d-4f6e-b24b-e9cfde0e6282.gif)
 
 
