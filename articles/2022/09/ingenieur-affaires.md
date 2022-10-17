@@ -118,51 +118,8 @@ Alors convaincu ?
 J'espère vous avoir apporté un nouvel éclairage sur mon métier avec un maximum de transparence.   
 Naturellement, impossible d'aborder ni d'approfondir tous les sujets liés au métier d’ingénieur d’affaires, pour n’en citer que deux essentiels: **la gestion de l’intercontrat** et **la négociation des tarifs journaliers moyens (TJM)**. Les prochains formats se concentreront sur des problématiques précises en mettant en avant des exemples authentiques :) 
 
-Je compte sur vous pour me faire part de vos commentaires, remarques, critiques et suggestions!
+Je compte sur vous pour me faire part de vos commentaires, remarques, critiques et suggestions pour continuer de faire évoluer ce métier et la vision que nous en avons!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Best version v2](https://user-images.githubusercontent.com/113584197/195785939-cf92ab4d-485d-4f6e-b24b-e9cfde0e6282.gif)
 
 
 **Librement adapté du film Hook*
