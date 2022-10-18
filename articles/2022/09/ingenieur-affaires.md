@@ -1,7 +1,7 @@
 ---
 title: 'Ingénieur d’Affaires ou Commercial : pour qui tu me prends ?'
 author: Thomas PIERRON
-published_date: 2022-09-30
+published_date: 2022-10-18
 description: J’ai lu dernièrement qu’on utilise des ingénieurs d’affaires à la place des rats dans les expérimentations scientifiques. On le fait pour deux raisons. Primo, les savants risquent moins de s’attacher aux ingénieurs d’affaires et secundo, il y a des choses que même les rats ne font pas.*
 tags: Ingénieur d’Affaires, Commercial, Cabinet de Conseil, ESN, Software Craftsmanship
 shareImage: /images/2022/09/Bestversionv2.gif
